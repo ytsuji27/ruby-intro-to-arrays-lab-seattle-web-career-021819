@@ -4,3 +4,5 @@ end
 
 
 def array_with_two_elements
+  ["IPA", "Stout"]
+end
